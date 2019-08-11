@@ -1,0 +1,1 @@
+/root/buildroot/output/host/bin/mipsel-linux-gcc   -static CMakeFiles/http.dir/http/http.c.o CMakeFiles/http.dir/main.c.o CMakeFiles/http.dir/http/http_parser.c.o CMakeFiles/http.dir/http/krypton.c.o CMakeFiles/http.dir/http/cJSON.c.o CMakeFiles/http.dir/http/api.c.o CMakeFiles/http.dir/sqlite/sqlite3.c.o  -o http 
